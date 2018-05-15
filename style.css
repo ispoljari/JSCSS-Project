@@ -1,6 +1,14 @@
+.cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .main {
   margin: 0 auto;
   width: 1020px;
+  outline: solid 1px red;
+  background: green;
 }
 
 .latest {
