@@ -2,3 +2,8 @@
   margin: 0 auto;
   width: 1020px;
 }
+
+.latest {
+  width: 640px;
+  float: left;
+}
