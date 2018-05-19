@@ -62,6 +62,16 @@ nav ul li {
   margin-right: 30px;
 }
 
+.promo {
+  position: relative;
+}
+
+.promo-desc {
+  position: absolute;
+  bottom: 93px;
+  right: 75px;
+}
+
 .sidebar {
   width: 360px;
   float: right;
