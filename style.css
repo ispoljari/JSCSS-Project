@@ -22,6 +22,7 @@ html {
 .latest {
   width: 640px;
   float: left;
+  padding: 0 40px;
 }
 
 .sidebar {
