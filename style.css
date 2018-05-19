@@ -19,6 +19,14 @@ html {
   width: 1020px;
 }
 
+.logo {
+  float: left;
+  margin-left: 145px;
+  margin-top: -34px;
+  position: relative;
+  top: 34px;
+}
+
 .media {
   clear: left;
   padding-bottom: 28px;
