@@ -25,6 +25,7 @@ html {
   margin-top: -34px;
   position: relative;
   top: 34px;
+  z-index: 10;
 }
 
 .media {
@@ -64,6 +65,7 @@ nav ul li {
 
 .promo {
   position: relative;
+  z-index: 5;
 }
 
 .promo-desc {
