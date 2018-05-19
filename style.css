@@ -19,6 +19,18 @@ html {
   width: 1020px;
 }
 
+.media {
+  clear: left;
+  padding-bottom: 28px;
+  overflow: hidden;
+}
+
+.media img {
+  max-width: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
 .latest {
   width: 640px;
   float: left;
