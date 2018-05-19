@@ -19,6 +19,25 @@ html {
   width: 1020px;
 }
 
+.footer-1 {
+  float: left;
+  width: 422px;
+}
+
+.footer-2 {
+  float: left;
+  width: 326px;
+}
+
+.footer-3 {
+  float: left;
+  width: 232px;
+}
+
+.footer-inside {
+  padding-left: 40px;
+}
+
 .logo {
   float: left;
   margin-left: 145px;
