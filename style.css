@@ -26,3 +26,9 @@ html {
   width: 360px;
   float: right;
 }
+
+.tweet {
+  padding-left: 55px;
+  padding-right: 20px;
+  position: relative;
+}
