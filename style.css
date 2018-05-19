@@ -93,6 +93,20 @@ nav ul li {
   right: 75px;
 }
 
+.rating {
+  float: left;
+  clear: left;
+  padding-top: 4px;
+  padding-right: 15px;
+  /* width: 45px; */
+}
+
+.pop-item {
+  float: left;
+  width: 250px;
+  padding-bottom: 20px;
+}
+
 .sidebar {
   width: 360px;
   float: right;
