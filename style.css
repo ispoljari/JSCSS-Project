@@ -8,6 +8,13 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #ccb6a3;
+  background-image: url(../images/bg-main.gif);
+  background-repeat: repeat repeat;
+  background-position: 0 0;
+}
+
 .cf::after {
   content: "";
   display: table;
