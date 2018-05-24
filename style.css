@@ -26,6 +26,10 @@ body {
   width: 1020px;
 }
 
+footer {
+  background-color: rgb(66, 3, 30);
+}
+
 .footer-1 {
   float: left;
   width: 422px;
