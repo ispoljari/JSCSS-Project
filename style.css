@@ -82,6 +82,7 @@ footer {
   width: 640px;
   float: left;
   padding: 0 40px;
+  background: url(/images/bg-column.png) no-repeat top right;
 }
 
 nav {
