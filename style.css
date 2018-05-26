@@ -74,6 +74,7 @@ footer {
   float: left;
   margin-right: 30px;
   border: solid 9px #ede0d5;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 2px 0;
   box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 2px 0;
 }
 
@@ -104,7 +105,17 @@ nav ul li {
   position: relative;
   z-index: 5;
   padding-bottom: 8px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 3px 2px 0;
   box-shadow: rgba(0, 0, 0, 0.25) 0 3px 2px 0;
+}
+
+.promo-btn {
+  display: inline-block;
+  width: 208px;
+  padding: 13px 0;
+  background-color: #6c0733;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 7px 2px 0;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 7px 2px 0;
 }
 
 .promo-desc {
