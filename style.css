@@ -74,6 +74,7 @@ footer {
   float: left;
   margin-right: 30px;
   border: solid 9px #ede0d5;
+  box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 2px 0;
 }
 
 .latest {
