@@ -13,6 +13,10 @@ a {
   color: #544040;
 }
 
+nav a {
+  color: #fefefe;
+}
+
 body {
   background-color: #ccb6a3;
   background-image: url(../images/bg-main.gif);
