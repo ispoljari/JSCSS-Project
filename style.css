@@ -169,6 +169,17 @@ nav ul li:last-child {
   margin-bottom: 5px;
 }
 
+.media p {
+  margin: 0;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #7b6047;
+}
+
+.media p span {
+  font-size: 25px;
+}
+
 .rating {
   float: left;
   clear: left;
