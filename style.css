@@ -157,6 +157,10 @@ nav ul li:last-child {
   text-align: center;
 }
 
+.promo-desc h1 {
+  color: #fefefe;
+}
+
 .rating {
   float: left;
   clear: left;
