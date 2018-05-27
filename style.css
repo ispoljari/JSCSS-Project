@@ -167,6 +167,14 @@ nav ul li {
   position: relative;
 }
 
+.tweet a {
+  color: #810430;
+}
+
+.tweet .date {
+  color: #8f7e6d;
+}
+
 .tweet::before {
   content: url(../images/twitter-icon.png);
   display: block;
