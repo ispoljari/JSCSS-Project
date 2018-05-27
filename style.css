@@ -161,6 +161,10 @@ nav ul li:last-child {
   color: #fefefe;
 }
 
+.media h2 {
+  color: #49301a;
+}
+
 .rating {
   float: left;
   clear: left;
