@@ -18,6 +18,7 @@ nav a {
 }
 
 body {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
   background-color: #ccb6a3;
   background-image: url(../images/bg-main.gif);
   background-repeat: repeat repeat;
