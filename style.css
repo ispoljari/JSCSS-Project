@@ -67,6 +67,12 @@ footer {
   padding-left: 40px;
 }
 
+h1, h2, nav {
+  font-family: 'Chelsea Market', Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
 .logo {
   float: left;
   margin-left: 145px;
