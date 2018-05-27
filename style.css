@@ -163,6 +163,10 @@ nav ul li:last-child {
 
 .media h2 {
   color: #49301a;
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: 5px;
 }
 
 .rating {
