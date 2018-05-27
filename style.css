@@ -140,6 +140,8 @@ nav ul li:last-child {
   background-color: #6c0733;
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 7px 2px 0;
   box-shadow: rgba(0, 0, 0, 0.25) 0 7px 2px 0;
+  color: #fefefe;
+  font-size: 20px;
 }
 
 .more-btn {
