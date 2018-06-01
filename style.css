@@ -3,7 +3,9 @@ html {
   box-sizing: border-box;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   -webkit-box-sizing: inherit;
   box-sizing: inherit;
 }
@@ -26,7 +28,7 @@ body {
   color: #333;
 }
 
-body>header {
+body > header {
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 3px 2px 0;
   box-shadow: rgba(0, 0, 0, 0.25) 0 3px 2px 0;
   position: relative;
@@ -75,7 +77,9 @@ footer ul {
   padding-left: 40px;
 }
 
-h1, h2, nav {
+h1,
+h2,
+nav {
   font-family: 'Chelsea Market', Arial, Helvetica, sans-serif;
   text-transform: uppercase;
   font-weight: normal;
@@ -195,6 +199,7 @@ nav ul li:last-child {
   clear: left;
   padding-top: 4px;
   padding-right: 15px;
+
   /* width: 45px; */
 }
 
