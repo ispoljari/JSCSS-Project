@@ -86,6 +86,10 @@ nav {
   color: #810430;
 }
 
+.footer-1 h2 {
+  font-size: 36px;
+}
+
 .logo {
   float: left;
   margin-left: 145px;
