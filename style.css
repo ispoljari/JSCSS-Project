@@ -109,6 +109,10 @@ nav {
   top: 34px;
 }
 
+.main {
+  padding-bottom: 33px;
+}
+
 .media {
   clear: left;
   padding-bottom: 28px;
@@ -195,8 +199,8 @@ nav ul li:last-child {
 .more-btn {
   text-align: center;
   float: right;
-  margin-right: 50px;
-  width: 280px;
+  margin-right: 30px;
+  width: 260px;
 }
 
 .promo-desc {
