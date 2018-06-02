@@ -265,6 +265,7 @@ nav ul li:last-child {
   padding-left: 55px;
   padding-right: 20px;
   position: relative;
+  line-height: 1.4;
 }
 
 .tweet a {
@@ -273,6 +274,9 @@ nav ul li:last-child {
 
 .tweet .date {
   color: #8f7e6d;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-style: italic;
 }
 
 .tweet::before {
