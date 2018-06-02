@@ -76,6 +76,12 @@ footer ul {
 .footer-3 {
   float: left;
   width: 232px;
+  padding-top: 22px;
+  color: #810430;
+}
+
+.footer-3 a {
+  color: #810430;
 }
 
 .footer-inside {
@@ -140,6 +146,10 @@ nav ul {
 .footer-2 ul {
   text-align: center;
   font-size: 20px;
+  line-height: 1.7;
+}
+
+.footer-3 ul {
   line-height: 1.7;
 }
 
