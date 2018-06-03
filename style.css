@@ -15,8 +15,17 @@ a {
   color: #544040;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 nav a {
   color: #fefefe;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: #cdb8a5;
 }
 
 body {
@@ -117,6 +126,15 @@ nav {
   clear: left;
   padding-bottom: 28px;
   overflow: hidden;
+}
+
+.media a {
+  text-decoration: none;
+}
+
+.media a:hover h2,
+.media a:hover p {
+  color: #b32c1c;
 }
 
 .media img {
