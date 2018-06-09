@@ -44,6 +44,8 @@ body > header {
   box-shadow: rgba(0, 0, 0, 0.25) 0 3px 2px 0;
   position: relative;
   z-index: 10;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#87053e), to(#560329));
+  background-image: linear-gradient(#87053e, #560329);
 }
 
 .cf::after {
