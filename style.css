@@ -211,6 +211,8 @@ nav ul li:last-child {
   padding-bottom: 8px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 3px 2px 0;
   box-shadow: rgba(0, 0, 0, 0.25) 0 3px 2px 0;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4e0324), color-stop(97%, #4e0324), to(#851F49));
+  background-image: linear-gradient(#4e0324, #4e0324 97%, #851F49);
 }
 
 .promo-btn {
