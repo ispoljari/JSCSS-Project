@@ -218,6 +218,8 @@ nav ul li:last-child {
   width: 208px;
   padding: 13px 0;
   background-color: #6c0733;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#87053e), to(#560329));
+  background-image: linear-gradient(#87053e, #560329);
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 7px 2px 0;
   box-shadow: rgba(0, 0, 0, 0.25) 0 7px 2px 0;
   color: #fefefe;
