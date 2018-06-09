@@ -241,6 +241,8 @@ nav ul li:last-child {
   float: right;
   margin-right: 30px;
   width: 260px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#6b5139), to(#2d1e10));
+  background-image: linear-gradient(#6b5139, #2d1e10);
 }
 
 .promo-desc {
